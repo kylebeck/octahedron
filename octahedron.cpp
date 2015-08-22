@@ -1,4 +1,4 @@
-#include "Octahedron.h"
+#include "octahedron.h"
 
 //const uint8_t edgeLength = 15;
 
